@@ -5,16 +5,6 @@
 A pre final year student at IIIT Gwalior pursuing an Integrated Bachelors and Masters of Technology in Information Technology and a budding data scientist. My primary focus is on Machine Learning and Data Analysis with Python and SQL as well as in basic Web and Cross Platform development.
 I am interested in Economics, Statistics, War Studies and International Affairs and spend my free time reading, giving quizzes and working on personal creative projects.
 
-<p align="center"> <a href="https://twitter.com/RuhelaRandom" target="blank"><img src="https://img.shields.io/twitter/follow/RuhelaRandom?logo=twitter&style=for-the-badge" alt="RuhelaRandom" /></a> </p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/himanshu-ruhela/">
-<img src="https://raw.githubusercontent.com/verdantfire/verdantfire/main/assets/linkedin_icon.svg"  height="40"  style="vertical-align:down; margin:4px"></a>
-<a href="https://www.twitter.com/RuhelaRandom"><img src="https://raw.githubusercontent.com/verdantfire/verdantfire/main/assets/twitter_icon.svg" height="40" style="vertical-align:down; margin:4px"></a>
-<a href="https://bit.ly/HimanshuRuhela0621"><img  src="https://raw.githubusercontent.com/verdantfire/verdantfire/main/assets/resume_icon.png"  height="40"  style="vertical-align:down; margin:4px"></a>
- <!--&nbsp; <a href="mailto:himanshuruhela013@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>-->
-</p>
-
 #### 👨🏻‍💻 Languages <br />
 <p align="left">
   <img src="https://raw.githubusercontent.com/verdantfire/verdantfire/main/assets/python_icon.svg" height="40" style="vertical-align:down; margin:4px">
